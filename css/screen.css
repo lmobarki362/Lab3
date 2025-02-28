@@ -270,3 +270,9 @@ button,#submit{
 #submit:hover {
   background-color: #D3D3D3;
 }
+
+@media (min-width: 768px) {
+  #content {
+    max-width: 500px;
+  }
+}
