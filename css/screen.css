@@ -245,3 +245,8 @@ form {
   display: flex;
   flex-direction: column;
 }
+
+input {
+  outline: 2px solid #b0b0b0;
+  background-color: #d6d6d6;
+}
