@@ -266,3 +266,7 @@ button,#submit{
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
+
+#submit:hover {
+  background-color: #D3D3D3;
+}
