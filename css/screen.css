@@ -250,3 +250,19 @@ input {
   outline: 2px solid #b0b0b0;
   background-color: #d6d6d6;
 }
+
+button,#submit{
+  display: block;
+  margin: 15px auto 0;
+  width: 50%;
+  max-width: 150px;
+  margin-top: 15px;
+  padding: 8px 6px;
+  background-color: #C0C0C0;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
