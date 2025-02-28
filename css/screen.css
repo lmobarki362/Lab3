@@ -222,3 +222,13 @@ h1 {
   font-size: 2em;
   margin-bottom: 15px;  
 }
+
+p {
+  font-size: 1.2em;
+  margin-bottom: 15px;  
+}
+
+label {
+  font-size: 1em; 
+  margin-top: 10px;
+}
