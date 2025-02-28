@@ -185,6 +185,7 @@ img, audio, video {
 }
 
 /* ===== BASE STYLES ===== */
+/* ===== STATE STYLES ======= */
 
 /*
   Major Sixth Modular Scale:
@@ -203,7 +204,16 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
-
-
-/* ===== STATE STYLES ======= */
+body {
+  font-family: "Lato", "Arial", sans-serif;
+  background-color: #A9A9A9;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+  flex-direction: column;
+}
 
