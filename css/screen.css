@@ -240,3 +240,8 @@ label {
   width: 80%;
   max-width: 450px;
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+}
