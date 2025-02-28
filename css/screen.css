@@ -217,3 +217,8 @@ body {
   flex-direction: column;
 }
 
+h1 {
+  font-weight: bold;
+  font-size: 2em;
+  margin-bottom: 15px;  
+}
